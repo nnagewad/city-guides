@@ -1,0 +1,14 @@
+{
+  "version": "1.0",
+  "cities": [
+    {
+      "id": "london",
+      "name": "London",
+      "country": "England",
+      "fileName": "london.json",
+      "version": "1.0",
+      "geofenceCount": 2,
+      "isPremium": false
+    }
+  ]
+}
