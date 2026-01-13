@@ -6,8 +6,8 @@
       "name": "London",
       "country": "England",
       "fileName": "london.json",
-      "version": "1.0",
-      "geofenceCount": 2,
+      "version": "0.1",
+      "geofenceCount": 3,
       "isPremium": false
     }
   ]
