@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "0.1",
   "defaultRadius": 400,
   "city": "London",
   "geofences": [
@@ -16,6 +16,13 @@
       "group": "Grocery",
       "latitude": 51.61153548371642,
       "longitude": -0.18000731638305068
+    },
+    {
+      "id": "barbicanCentre",
+      "name": "Barbican Centre",
+      "group": "Culture",
+      "latitude": 51.520245956946106,
+      "longitude": -0.09378689568523935
     }
   ]
 }
